@@ -1,0 +1,103 @@
+A számelmélet alapjai II.:
+    - Számonkérés GYAK:
+        - 2 db 60 pontos ZH (legalább 15-15 pontosra)
+        - Maximális pontszám összesen 120 pont, 
+          amit 1-2 pontos szorgalmi feladatokkal lehet növelni.
+        - A Zh-k a 6. és 13. oktatási héten lesznek a gyakorlat idejében 
+          jelenléti formában. 
+        - Az összpontszám alapján a ponthatárok a következők :
+            - 40-től  elégséges(2)
+            - 60-tól közepes(3)
+            - 80-tól jó(4)
+            - 100-tól jeles(5).
+    - Heti feladat: 
+        - Szorgalmi
+        - Néha lesz házi
+Adatbázisok II.:
+    - Számonkérés:
+        - 2 ZH (ZH --> 7. gyakorlat, 12. gyakorlat)
+        - A gyakorlati jegyet a 2 ZH érdemjegyének átlaga adja a kerekítés szabályai szerint. (4.5 -> 5)
+        - Az egyik ZH (1-es vagy bármilyen más jegy) a vizsgaidőszak első hetében javítható.
+          A javítás után a korábbi jegy és az új érdemjegy átlaga képezi a zh jegyét 
+          (kerekítés nélkül, pl. 3.5 is lehet)
+        - Javítására gyakorlati jegy uv-val van lehetőség a vizsgaidőszak második hetében.
+    - Heti feladat:
+        - Gyakorlati feladatokat megcsinálni
+        - Órai kötelező feladatot megcsinálni
+Konkurens programozás:
+    - Számonkérés: ?
+    - Heti feladat: ?
+Python:
+    - Számonkérés:
+        - Félév végén vizsga az előadás anyagából, 
+          80%-tól van meg, alatta nem kapsz jegyet, 
+          ONLINE kell írni FIX
+        - Warmup-ok minden óra elején, nem számítanak a jegybe, 
+          de ezzel nézik a hiányzást (max 3-szor lehet hiányozni)
+        - Órai aktivitást is nézik, random kérdez lényeg, hogy válaszolj valamit, az se baj ha nem tudod
+        - 2 beadandót kell csinálni
+        - Heti feladat: ? (egyenlőre nincs)
+Szerveroldali webprogramozás:
+    - Számonkérés:
+        - Laravel beadandó 
+            - HATÁRIDŐ: 2022. november 13. 23:59 (késés nem megengedett!!!) 60p (min. 24p) 
+        - REST API évfolyam ZH - 
+            - Időpont 2022. november 30. 13:00-16:00 vagy 16:00-19:00 (időtartam: ~3 óra) 
+            - Pont: 30p (min. 12)
+            - Helyszín: Lovarda
+        - GraphQL és Websocket évfolyam ZH
+            - Időpont: 2022. december 21. 16:00-19:00 (időtartam: ~3 óra) 
+            - Pont: 30 (min. 12) 
+            - Helyszín: valószínűleg online
+        - REST API évfolyam ZH pót/javító 
+            - Időpont: 2023. január 11. 12:00-15:00 (időtartam: ~3 óra) 
+            - Pont: 30 (min. 12) 
+            - Helyszín: valószínűleg online	
+        - GraphQL és Websocket évfolyam ZH pót/javító 
+            - Időpont: 2023. január 11. 15:30-18:30 (időtartam: ~3 óra)
+            - Pont: 30 (min. 12)
+            - Helyszín:	valószínűleg online
+        - A félév során javító alkalmak nélkül három számonkérés lesz: 
+          egy beadandó (Laravel témában) és 
+          két évfolyam ZH (a félév második felének témaköreiből). 
+          Mindhárom számonkérésen egyenként 40%-ot szükséges elérni az átmenő jegyhez!
+        - A beadandó feladat (Laravel) utólag nem javítható, és a késve beadás sem megengedett.
+        - A beadandó feladatot a gyakorlatvezetővel egyénileg egyeztetett időpontban 
+          mindenkinek szóban meg kell védeni. A védés időtartama normál esetben 10-15 perc, 
+          amely alatt a hallgató bemutatja a megvalósított funkciókat, 
+          és válaszol a gyakorlatvezető ellenőrző kérdéseire.
+        - A félév során összesen 120 pont szerezhető.
+            48 pont (40%)	elégséges (2)
+            66 pont (55%)	közepes (3)
+            84 pont (70%)	jó (4)
+            102 pont (85%)	jeles (5)
+        - A pót/javító alkalmon nem lehet rontani a korábbi eredményhez képest, 
+        a félév végén a jobb eredményt fogjuk figyelembe venni.
+        - A zárthelyiken kezdőcsomagot biztosítunk, amelynek használata kötelező! 
+    - Heti feladat: megérteni mi a rák történik gyakon XD
+Telekommunikációs hálózatok:
+    - Számonkérés: 
+        - Százalék = háziSzázalék * 0,33 + mininetSzázalék * 0,33 + ZHszázalék * 0,33
+            - 0 - 49 % Elégtelen (1)
+            - 50 - 59 % Elégséges (2)
+            - 60 - 74 % Közepes (3)
+            - 75 - 84 % Jó (4)
+            - 85 – 100 % Jeles (5)
+    - Heti feladat:
+        - Házi feladat + Órai feladatok legyenek meg 
+        - Szorgalmi
+Valószínűségszámítás és statisztika:
+    - Számonkérés:
+        - 2 hetente kvíz, 5p / kvíz - nem létező előadás anyagából
+        - 2 ZH
+            - 1. ZH 5. héten, jelenlétibe 15p kell min
+            - 2. ZH 13. héten, online 15p kell min
+        - 140 - 116  5
+        - 115 - 96   4
+        - 95 - 76    3
+        - 74 - 56    2
+        - 55 - 0     1
+    - Heti feladat:
+        - van szorgalmi
+        - kötelező házi nincs, de gyakorolj bazdmeg, mert VALÓSZÍNŰ, hogy kurva nehéz lesz a ZH
+Mesterséges 

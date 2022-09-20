@@ -1,0 +1,15 @@
+{
+  "socketPont": {
+    "max": 20,
+    "elert": 20
+  },
+  "zhPont": {
+    "max": 20,
+    "elert": 15,
+    "min": 0.5
+  },
+  "mininetPont": {
+    "max": 15,
+    "min": 0.5
+  }
+}

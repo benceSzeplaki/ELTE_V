@@ -1,0 +1,12 @@
+Döntsük el, hogy az alábbi mondatok közül melyek állítások!
+
+1. Budapesten 2007. szeptember 7-én sütött a nap. --> Állítás.
+2. Egynél több páros törzsszámnak kell lennie. --> Nem állítás.
+3. Ádám, hol voltál? --> Nem állítás.
+4. A világháborúban. --> Nem állítás.
+5. Ami nem azonos önmagával, az különbözik minden mástól is. --> Nem állítás.
+6. Van-e ennek valami értelme? --> Nem állítás.
+7. Minden szám osztható vagy kettővel vagy hárommal. --> Állítás.
+8. Semmi nem ugyanaz többé. --> Nem állítás.
+9. A Vénusz azonos az Esthajnalcsillaggal. --> Állítás.
+10. Vedd tudomásul, ami elromolhat, az el is romlik! --> Nem állítás.
